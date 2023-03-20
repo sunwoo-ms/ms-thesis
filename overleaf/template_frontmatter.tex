@@ -1,0 +1,158 @@
+%
+%
+% UCSD Doctoral Dissertation Template
+% -----------------------------------
+% http://ucsd-thesis.googlecode.com
+%
+%
+
+
+%% REQUIRED FIELDS -- Replace with the values appropriate to you
+
+% No symbols, formulas, superscripts, or Greek letters are allowed
+% in your title.
+\title{Understanding How Students Interact with a Flipped HyFlex Course in Computer Science}
+
+\author{Sunwoo Kim}
+\degreeyear{\the\year}
+
+% Master's Degree theses will NOT be formatted properly with this file.
+\degreetitle{Master of Science}
+
+\field{Computer Science}
+
+\chair{Mia Minnes}
+
+%  The rest of the committee members  must be alphabetized by last name.
+\othermembers{
+Niema Moshiri\\
+Gerald Soosai Raj\\
+}
+\numberofmembers{3}
+
+
+%% START THE FRONTMATTER
+%
+\begin{frontmatter}
+
+%% TITLE PAGES
+%
+%  This command generates the title, copyright, and signature pages.
+%
+\makefrontmatter
+
+%% DEDICATION
+%
+%  You have three choices here:
+%    1. Use the ``dedication'' environment.
+%       Put in the text you want, and everything will be formated for
+%       you. You'll get a perfectly respectable dedication page.
+%
+%
+%    2. Use the ``mydedication'' environment.  If you don't like the
+%       formatting of option 1, use this environment and format things
+%       however you wish.
+%
+%    3. If you don't want a dedication, it's not required.
+%
+%
+\begin{dedication}
+  I dedicate this thesis to Euijoong Kim, Booyoung Woo, and Irene Kim for years of love and support.
+\end{dedication}
+
+
+% \begin{mydedication} % You are responsible for formatting here.
+%   \vspace{1in}
+%   \begin{flushleft}
+% 	To me.
+%   \end{flushleft}
+%
+%   \vspace{2in}
+%   \begin{center}
+% 	And you.
+%   \end{center}
+%
+%   \vspace{2in}
+%   \begin{flushright}
+% 	Which equals us.
+%   \end{flushright}
+% \end{mydedication}
+
+
+
+%% EPIGRAPH
+%
+%  The same choices that applied to the dedication apply here.
+%
+\begin{epigraph} % The style file will position the text for you.
+  \emph{I believe in what we are doing.\\
+  I believe the world will be better for it.\\
+  And that is reason enough to carry this burden.\\
+  In fact, it's more than that... it's reason to celebrate it.}\\
+  ---Jonathan Hickman, \textit{House of X \#6}
+\end{epigraph}
+
+% \begin{myepigraph} % You position the text yourself.
+%   \vfil
+%   \begin{center}
+%     {\bf Think! It ain't illegal yet.}
+%
+% 	\emph{---George Clinton}
+%   \end{center}
+% \end{myepigraph}
+
+
+%% SETUP THE TABLE OF CONTENTS
+%
+\tableofcontents
+\listoffigures  % Comment if you don't have any figures
+\listoftables   % Comment if you don't have any tables
+
+
+
+%% ACKNOWLEDGEMENTS
+%
+%  While technically optional, you probably have someone to thank.
+%  Also, a paragraph acknowledging all coauthors and publishers (if
+%  you have any) is required in the acknowledgements page and as the
+%  last paragraph of text at the end of each respective chapter. See
+%  the OGS Formatting Manual for more information.
+%
+\begin{acknowledgements}
+  I would like to thank my head advisor, Mia Minnes, for her continued support, feedback, and empathy throughout the process of developing this thesis and the generosity with which she shared her experience. I would like to thank my advisor, Gerald Soosai Raj, for getting me started on the path of computing education research and inviting me into the place where the good work gets done. I would like to thank my advisor, Niema Moshiri, for seeing potential in me when others did not and granting me the opportunity to work alongside him to teach and iterate upon CSE 100: Advanced Data Structures for the past three years. Altogether, these three individuals have inspired me to push the boundaries of what is known and to stand on the shoulders of those who came before.
+
+  In the same vein, I would like to thank my fellow education researcher, Paul Hadjipieris, whose passion for his own work on HyFlex courses was instrumental to the success of my own. His input and constructive feedback were an invaluable resource, and those who benefit from the findings I describe in this thesis need only look towards his ongoing research endeavors for more.
+
+  This thesis would likely not exist if not for the continued love and support of my parents. Any and all of the work that I have turned out over the years was made possible by their efforts. In a manner of speaking, this thesis was built on their contributions to the field of ``me."
+
+  And finally, I would like to acknowledge the hundreds, if not thousands, of students who have both enrolled in and tutored for CSE 100 during my time as a tutor, then teaching assistant, for the course. I continue to be inspired by their dedication and willingness to improve themselves. Were it not for the many individuals I have had the opportunity to meet with and work alongside, I would not be where I am today, and this thesis would be for naught.
+\end{acknowledgements}
+
+
+%% VITA
+%
+%  A brief vita is required in a doctoral thesis. See the OGS
+%  Formatting Manual for more information.
+%
+\begin{vitapage}
+\begin{vita}
+  \item[2021] Bachelor of Science in Computer Science, University of California San Diego
+  \item[2022-2023] Graduate Teaching Assistant, University of California San Diego
+  \item[2023] Master of Science in Computer Science, University of California San Diego
+\end{vita}
+% \begin{publications}
+% \end{publications}
+\end{vitapage}
+
+
+%% ABSTRACT
+%
+%  Doctoral dissertation abstracts should not exceed 350 words.
+%   The abstract may continue to a second page if necessary.
+%
+\begin{abstract}
+  Much research has been conducted on the ways in which the hybrid-flexible (HyFlex) and flipped classroom models have impacted college students. However, less is known about how students interact with a course that combines the two models, especially regarding the modality through which they attend lectures. We observed the first flipped HyFlex offering of a particular computer science (CS) course at a large public research-intensive university in the United States. We found that the modality through which students initially planned to attend the course's lectures was impacted by their class standing and, to a lesser extent, their gender; however, a student's race was not found to impact their attendance plans. Secondly, we found that remote attendance had a higher rate of decrease than in-person attendance, while asynchronous attendance was the only modality to rise in the second half of the course. Upon investigating the reason for this difference, we found that the convenience of being able to access lecture recordings asynchronously was the factor that had the most impact on students' decisions to attend lectures and that their unrestricted access to course materials and asynchronous lecture recordings caused some students to perceive synchronous lecture attendance to be less necessary.
+\end{abstract}
+
+
+\end{frontmatter}
