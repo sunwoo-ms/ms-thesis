@@ -1,0 +1,233 @@
+username,overall_attendance_lectures_weeks_6_10,inperson_attendance_lectures_weeks_6_10,lecture_recording_usage,remote_attendance_lectures_count,remote_attendance_lectures_weeks_1_5_count,remote_attendance_lectures_weeks_6_10_count
+3,11 to 15 times,True,False,18.0,11.0,7.0
+4,11 to 15 times,True,False,8.0,4.0,4.0
+6,,False,True,1.0,1.0,0.0
+8,11 to 15 times,False,False,27.0,15.0,12.0
+9,11 to 15 times,False,True,9.0,1.0,8.0
+11,,False,True,1.0,1.0,0.0
+16,,True,False,1.0,1.0,0.0
+17,0 times,False,True,10.0,9.0,1.0
+18,11 to 15 times,True,False,2.0,1.0,1.0
+19,,False,False,10.0,10.0,0.0
+20,6 to 10 times,False,True,15.0,9.0,6.0
+22,,False,True,19.0,11.0,8.0
+23,11 to 15 times,False,True,21.0,14.0,7.0
+24,11 to 15 times,False,True,1.0,1.0,0.0
+25,,True,False,10.0,5.0,5.0
+26,,False,True,9.0,6.0,3.0
+27,,True,True,2.0,2.0,0.0
+34,0 times,False,True,4.0,4.0,0.0
+35,,False,True,6.0,6.0,0.0
+36,0 times,False,False,1.0,1.0,0.0
+37,6 to 10 times,False,True,11.0,5.0,6.0
+39,6 to 10 times,False,True,10.0,7.0,3.0
+41,,False,True,10.0,10.0,0.0
+42,0 times,False,False,1.0,1.0,0.0
+49,,False,True,1.0,0.0,1.0
+50,6 to 10 times,False,True,3.0,2.0,1.0
+52,0 times,False,True,5.0,5.0,0.0
+53,11 to 15 times,False,True,8.0,2.0,6.0
+56,,False,False,2.0,2.0,0.0
+57,6 to 10 times,False,True,18.0,14.0,4.0
+59,11 to 15 times,False,True,1.0,0.0,1.0
+60,11 to 15 times,True,False,3.0,1.0,2.0
+62,11 to 15 times,False,False,26.0,14.0,12.0
+63,11 to 15 times,True,True,3.0,2.0,1.0
+64,,True,False,1.0,1.0,0.0
+65,,False,True,5.0,5.0,0.0
+67,6 to 10 times,False,True,13.0,6.0,7.0
+70,0 times,False,True,1.0,1.0,0.0
+72,,False,True,5.0,5.0,0.0
+73,6 to 10 times,False,True,5.0,5.0,0.0
+74,6 to 10 times,True,False,1.0,0.0,1.0
+75,11 to 15 times,True,True,8.0,6.0,2.0
+76,11 to 15 times,True,False,8.0,4.0,4.0
+78,11 to 15 times,True,False,17.0,7.0,10.0
+82,11 to 15 times,False,True,18.0,10.0,8.0
+83,,False,True,10.0,9.0,1.0
+84,11 to 15 times,False,True,3.0,3.0,0.0
+86,,False,False,2.0,2.0,0.0
+87,11 to 15 times,False,False,26.0,15.0,11.0
+88,6 to 10 times,False,False,18.0,12.0,6.0
+90,,False,True,5.0,5.0,0.0
+91,11 to 15 times,False,False,26.0,15.0,11.0
+94,,False,True,4.0,3.0,1.0
+97,6 to 10 times,False,True,5.0,5.0,0.0
+98,0 times,False,True,1.0,1.0,0.0
+99,11 to 15 times,False,True,8.0,6.0,2.0
+100,6 to 10 times,True,True,7.0,7.0,0.0
+101,0 times,False,True,2.0,2.0,0.0
+102,,False,True,1.0,1.0,0.0
+104,,False,False,1.0,1.0,0.0
+105,,False,True,2.0,2.0,0.0
+106,,False,True,9.0,8.0,1.0
+109,,False,True,1.0,1.0,0.0
+110,6 to 10 times,False,True,14.0,13.0,1.0
+112,6 to 10 times,False,True,1.0,1.0,0.0
+113,6 to 10 times,False,True,13.0,13.0,0.0
+114,,False,True,9.0,9.0,0.0
+118,,False,True,3.0,3.0,0.0
+119,11 to 15 times,False,True,2.0,2.0,0.0
+121,,False,False,7.0,6.0,1.0
+125,,False,False,3.0,3.0,0.0
+128,0 times,False,False,2.0,2.0,0.0
+131,,False,True,1.0,1.0,0.0
+135,0 times,False,False,5.0,5.0,0.0
+136,0 times,False,True,9.0,9.0,0.0
+138,,False,True,4.0,3.0,1.0
+139,11 to 15 times,True,True,1.0,1.0,0.0
+141,11 to 15 times,True,False,10.0,2.0,8.0
+145,6 to 10 times,False,True,7.0,7.0,0.0
+146,6 to 10 times,False,True,4.0,4.0,0.0
+148,11 to 15 times,False,False,9.0,3.0,6.0
+151,,False,True,9.0,9.0,0.0
+152,6 to 10 times,False,True,5.0,5.0,0.0
+153,11 to 15 times,False,False,19.0,12.0,7.0
+154,6 to 10 times,False,True,3.0,3.0,0.0
+157,,False,True,6.0,5.0,1.0
+158,11 to 15 times,True,False,5.0,4.0,1.0
+159,0 times,False,False,1.0,1.0,0.0
+161,11 to 15 times,False,False,10.0,6.0,4.0
+162,6 to 10 times,False,True,6.0,4.0,2.0
+163,,False,True,1.0,1.0,0.0
+167,0 times,False,True,1.0,1.0,0.0
+168,6 to 10 times,False,True,2.0,2.0,0.0
+169,,False,False,13.0,12.0,1.0
+170,6 to 10 times,False,True,3.0,0.0,3.0
+171,,False,True,3.0,3.0,0.0
+174,,False,True,5.0,4.0,1.0
+175,6 to 10 times,False,True,6.0,6.0,0.0
+178,,False,True,4.0,4.0,0.0
+179,6 to 10 times,False,True,10.0,8.0,2.0
+180,11 to 15 times,True,True,2.0,1.0,1.0
+183,6 to 10 times,False,True,2.0,2.0,0.0
+184,6 to 10 times,False,True,15.0,12.0,3.0
+185,6 to 10 times,False,True,2.0,0.0,2.0
+187,,False,False,3.0,2.0,1.0
+188,11 to 15 times,True,False,4.0,2.0,2.0
+189,,False,True,2.0,2.0,0.0
+191,11 to 15 times,True,False,6.0,1.0,5.0
+192,0 times,False,False,2.0,2.0,0.0
+195,,False,True,2.0,2.0,0.0
+199,0 times,False,False,2.0,2.0,0.0
+200,6 to 10 times,False,True,10.0,9.0,1.0
+203,0 times,False,True,4.0,4.0,0.0
+204,11 to 15 times,False,False,20.0,12.0,8.0
+208,11 to 15 times,False,True,1.0,1.0,0.0
+213,0 times,False,True,11.0,11.0,0.0
+217,,False,True,2.0,2.0,0.0
+220,6 to 10 times,False,True,2.0,2.0,0.0
+223,11 to 15 times,False,True,2.0,2.0,0.0
+231,0 times,False,True,3.0,3.0,0.0
+232,0 times,False,True,2.0,2.0,0.0
+233,6 to 10 times,False,False,19.0,14.0,5.0
+236,11 to 15 times,False,True,17.0,10.0,7.0
+237,0 times,False,True,2.0,2.0,0.0
+239,6 to 10 times,False,True,4.0,3.0,1.0
+240,6 to 10 times,True,True,6.0,6.0,0.0
+247,11 to 15 times,True,False,20.0,10.0,10.0
+248,,False,True,2.0,2.0,0.0
+249,11 to 15 times,True,True,17.0,7.0,10.0
+251,6 to 10 times,True,True,1.0,0.0,1.0
+252,11 to 15 times,True,True,8.0,5.0,3.0
+255,,False,True,1.0,1.0,0.0
+257,0 times,False,True,8.0,7.0,1.0
+259,6 to 10 times,True,True,1.0,1.0,0.0
+260,11 to 15 times,True,False,13.0,2.0,11.0
+261,11 to 15 times,True,False,1.0,1.0,0.0
+263,6 to 10 times,False,True,1.0,1.0,0.0
+265,6 to 10 times,False,True,1.0,1.0,0.0
+269,11 to 15 times,True,True,4.0,3.0,1.0
+271,11 to 15 times,False,False,10.0,5.0,5.0
+274,11 to 15 times,True,False,12.0,6.0,6.0
+275,6 to 10 times,True,False,3.0,3.0,0.0
+277,11 to 15 times,False,True,6.0,6.0,0.0
+278,11 to 15 times,True,True,5.0,5.0,0.0
+279,0 times,False,True,3.0,3.0,0.0
+280,6 to 10 times,False,True,7.0,7.0,0.0
+290,,False,True,0.0,0.0,0.0
+293,0 times,False,False,0.0,0.0,0.0
+294,,False,True,0.0,0.0,0.0
+296,11 to 15 times,True,False,0.0,0.0,0.0
+298,0 times,False,True,0.0,0.0,0.0
+299,0 times,False,False,0.0,0.0,0.0
+301,11 to 15 times,False,True,0.0,0.0,0.0
+302,0 times,False,False,0.0,0.0,0.0
+304,0 times,False,True,0.0,0.0,0.0
+305,11 to 15 times,False,True,0.0,0.0,0.0
+306,,True,True,0.0,0.0,0.0
+307,,False,True,0.0,0.0,0.0
+308,6 to 10 times,False,True,0.0,0.0,0.0
+311,,False,True,0.0,0.0,0.0
+313,0 times,False,False,0.0,0.0,0.0
+314,,False,True,0.0,0.0,0.0
+316,6 to 10 times,False,True,0.0,0.0,0.0
+318,0 times,True,False,0.0,0.0,0.0
+319,6 to 10 times,False,True,0.0,0.0,0.0
+321,11 to 15 times,False,True,0.0,0.0,0.0
+322,6 to 10 times,False,True,0.0,0.0,0.0
+323,6 to 10 times,False,True,0.0,0.0,0.0
+324,6 to 10 times,False,True,0.0,0.0,0.0
+325,6 to 10 times,False,True,0.0,0.0,0.0
+326,0 times,False,True,0.0,0.0,0.0
+328,0 times,False,False,0.0,0.0,0.0
+329,0 times,False,True,0.0,0.0,0.0
+330,,False,True,0.0,0.0,0.0
+338,0 times,False,True,0.0,0.0,0.0
+339,0 times,False,False,0.0,0.0,0.0
+340,,False,False,0.0,0.0,0.0
+345,6 to 10 times,False,True,0.0,0.0,0.0
+346,11 to 15 times,False,True,0.0,0.0,0.0
+347,0 times,False,False,0.0,0.0,0.0
+349,6 to 10 times,False,True,0.0,0.0,0.0
+351,11 to 15 times,False,True,0.0,0.0,0.0
+353,,False,True,0.0,0.0,0.0
+354,,False,False,0.0,0.0,0.0
+358,0 times,False,True,0.0,0.0,0.0
+361,0 times,False,True,0.0,0.0,0.0
+362,11 to 15 times,False,True,0.0,0.0,0.0
+363,6 to 10 times,False,True,0.0,0.0,0.0
+364,11 to 15 times,False,True,0.0,0.0,0.0
+366,11 to 15 times,False,True,0.0,0.0,0.0
+368,6 to 10 times,False,True,0.0,0.0,0.0
+372,11 to 15 times,False,True,0.0,0.0,0.0
+374,6 to 10 times,False,True,0.0,0.0,0.0
+376,6 to 10 times,False,True,0.0,0.0,0.0
+382,,False,True,0.0,0.0,0.0
+384,,False,False,0.0,0.0,0.0
+389,11 to 15 times,True,False,0.0,0.0,0.0
+392,0 times,False,True,0.0,0.0,0.0
+393,,False,True,0.0,0.0,0.0
+395,,False,False,0.0,0.0,0.0
+399,,False,False,0.0,0.0,0.0
+402,0 times,False,True,0.0,0.0,0.0
+403,,False,True,0.0,0.0,0.0
+406,11 to 15 times,True,True,0.0,0.0,0.0
+408,6 to 10 times,False,True,0.0,0.0,0.0
+410,0 times,True,False,0.0,0.0,0.0
+411,6 to 10 times,False,True,0.0,0.0,0.0
+412,6 to 10 times,False,False,0.0,0.0,0.0
+413,6 to 10 times,True,True,0.0,0.0,0.0
+414,,False,True,0.0,0.0,0.0
+415,0 times,False,True,0.0,0.0,0.0
+416,0 times,False,True,0.0,0.0,0.0
+417,6 to 10 times,False,True,0.0,0.0,0.0
+418,,False,True,0.0,0.0,0.0
+419,,False,True,0.0,0.0,0.0
+420,0 times,False,True,0.0,0.0,0.0
+421,,False,True,0.0,0.0,0.0
+422,,False,True,0.0,0.0,0.0
+423,,False,True,0.0,0.0,0.0
+424,11 to 15 times,False,True,0.0,0.0,0.0
+425,,False,True,0.0,0.0,0.0
+426,6 to 10 times,False,True,0.0,0.0,0.0
+427,,False,True,0.0,0.0,0.0
+428,,False,True,0.0,0.0,0.0
+429,11 to 15 times,False,True,0.0,0.0,0.0
+430,0 times,False,True,0.0,0.0,0.0
+431,6 to 10 times,False,True,0.0,0.0,0.0
+432,11 to 15 times,False,False,0.0,0.0,0.0
+433,,False,True,0.0,0.0,0.0
+434,6 to 10 times,False,True,0.0,0.0,0.0
+435,0 times,False,True,0.0,0.0,0.0
+436,,False,True,0.0,0.0,0.0
